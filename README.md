@@ -1,0 +1,1 @@
+Create a standalone build project in AWS CodeBuild and trigger builds, for example, using a webhook
